@@ -1,0 +1,6 @@
+.shadow {
+    text-shadow: 2px 2px 2px #888888;
+}
+h1::first-letter {
+    font-weight: bold;
+  }
